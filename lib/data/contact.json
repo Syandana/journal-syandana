@@ -1,0 +1,50 @@
+[
+  {
+    "id": "instagram",
+    "link": "https://www.instagram.com/syandsign/",
+    "className": "btn btn-lg-light mx-lg-2",
+    "type": "fab fa-instagram fa-lg"
+  },
+  {
+    "id": "twitter",
+    "link": "https://twitter.com/Rizqy_syandana",
+    "className": "btn btn-lg-light mx-lg-2",
+    "type": "fab fa-twitter fa-lg"
+  },
+  {
+    "id": "facebook",
+    "link": "https://www.facebook.com/syandsign/",
+    "className": "btn btn-lg-light mx-lg-2",
+    "type": "fab fa-facebook-square fa-lg"
+  },
+  {
+    "id": "youtube",
+    "link": "https://www.youtube.com/channel/UCLaOO37RenBsDLBRyJjWN3g",
+    "className": "btn btn-lg-light mx-lg-2",
+    "type": "fab fa-youtube fa-lg"
+  },
+  {
+    "id": "discord",
+    "link": "https://discord.gg/3FMAPcH",
+    "className": "btn btn-lg-light mx-lg-2",
+    "type": "fab fa-discord fa-lg"
+  },
+  {
+    "id": "dribbble",
+    "link": "https://dribbble.com/syandanax",
+    "className": "btn btn-lg-light mx-lg-2",
+    "type": "fab fa-dribbble fa-lg"
+  },
+  {
+    "id": "linkedin",
+    "link": "https://www.linkedin.com/in/rizqysyandana/",
+    "className": "btn btn-lg-light mx-lg-2",
+    "type": "fab fa-linkedin fa-lg"
+  },
+  {
+    "id": "mail",
+    "link": "mailto:contact.syandana@gmail.com",
+    "className": "btn btn-lg-light mx-lg-2",
+    "type": "fas fa-envelope fa-lg"
+  }
+]
