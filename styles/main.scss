@@ -67,7 +67,10 @@ details summary {
 }
 
 img.next-image {
-  margin: 0;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 }
 
 .prose a {
