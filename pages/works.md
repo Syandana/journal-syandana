@@ -19,12 +19,11 @@ date: 2021-03-18
 6. Fillo
    [![image](/images/fillo/fillo-full-color.png)](/posts/fillo)
 7. The Daily Journal
-   [![image](/images/Kaleng-Cropped.jpg)](/posts/the-daily-journal)
+   [![image](/images/tdj/image1.png)](/posts/the-daily-journal)
 8. Diskusi Kelas
-   [![image](/images/Kaleng-Cropped.jpg)](/posts/diskusi-kelas)
+   [![image](/images/diskusi/ep1.jpg)](/posts/diskusi-kelas)
 9. Kopiqy
 10. Kynda Studio
 11. Papershow
 12. Jus Setapak
 13. Potoqy
-14. 
