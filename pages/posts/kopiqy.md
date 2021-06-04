@@ -7,7 +7,7 @@ author: Rizqy Syandana
 
 ---
 
-# The Original Pletok
+# Kopiqy, Kopi Niqmat
 
 ![miring](/images/kopiqy/miring.jpg)
 

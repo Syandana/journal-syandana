@@ -26,5 +26,6 @@ date: 2021-03-18
    [![image](/images/diskusi/ep1.jpg)](/posts/diskusi-kelas)
 10. Kynda Studio
 11. Papershow
+     [![image](/images/papershow/miring.jpg)](/posts/papershow)
 12. Jus Setapak
 13. Potoqy
