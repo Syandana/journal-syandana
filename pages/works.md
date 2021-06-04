@@ -24,8 +24,5 @@ date: 2021-03-18
    [![image](/images/tdj/image1.png)](/posts/the-daily-journal)
 9. Diskusi Kelas
    [![image](/images/diskusi/ep1.jpg)](/posts/diskusi-kelas)
-10. Kynda Studio
-11. Papershow
-     [![image](/images/papershow/miring.jpg)](/posts/papershow)
-12. Jus Setapak
-13. Potoqy
+10. Papershow
+    [![image](/images/papershow/miring.jpg)](/posts/papershow)
