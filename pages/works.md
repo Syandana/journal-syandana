@@ -10,19 +10,21 @@ date: 2021-03-18
    [![cover](/images/kenalan-ai/Cover.png)](/posts/kenalan-sama-illustrator-yuk)
 2. One Poster a Day
    [![image](/images/1day1poster/miring.png)](/posts/one-day-one-poster)
-3. Galiya Corp.
+3. Bekasi Keren
+   [![image](/images/bekasi-keren/cover.png)](/posts/bekasi-keren)
+4. Galiya Corp.
    [![desain sg](/images/galiya/desain-sg-galiya.png)](/posts/galiya)
-4. Digital Drawing
+5. Digital Drawing
     [![image](/images/digital-drawing/image1.jpg)](/posts/digital-drawing)
-5. The Original Pletok
+6. The Original Pletok
    [![image](/images/pletok/Kaleng-Cropped.jpg)](/posts/the-original-pletok)
-6. Kopiqy
+7. Kopiqy
    [![miring](/images/kopiqy/miring.jpg)](/posts/kopiqy)
-7. Fillo
+8. Fillo
    [![image](/images/fillo/fillo-full-color.png)](/posts/fillo)
-8. The Daily Journal
+9. The Daily Journal
    [![image](/images/tdj/image1.png)](/posts/the-daily-journal)
-9. Diskusi Kelas
-   [![image](/images/diskusi/ep1.jpg)](/posts/diskusi-kelas)
-10. Papershow
-    [![image](/images/papershow/miring.jpg)](/posts/papershow)
+10. Diskusi Kelas
+      [![image](/images/diskusi/ep1.jpg)](/posts/diskusi-kelas)
+11. Papershow
+     [![image](/images/papershow/miring.jpg)](/posts/papershow)
